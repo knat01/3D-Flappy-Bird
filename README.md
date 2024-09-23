@@ -2,8 +2,6 @@
 
 PLAY THE GAME HERE:  3-d-flappy-bird.vercel.app/
 
-
-![image](https://github.com/user-attachments/assets/8254dbdd-31ca-4bc1-b400-3db25938594d)
 [![image](https://github.com/user-attachments/assets/8254dbdd-31ca-4bc1-b400-3db25938594d)](https://www.youtube.com/watch?v=E8htJIBL3X8&ab_channel=ShaunSequeira)
 
 ## Table of Contents
