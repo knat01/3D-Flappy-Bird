@@ -1,6 +1,5 @@
 # Flappy Bird 3D
 
-![Flappy Bird 3D](https://github.com/your-username/flappy-bird-3D/blob/main/public/logo.png) *(Replace with your logo if available)*
 
 ## Table of Contents
 
