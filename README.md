@@ -3,9 +3,8 @@
 PLAY THE GAME HERE:  3-d-flappy-bird.vercel.app/
 
 
-Here's a video showcasing the project in action:
+![image](https://github.com/user-attachments/assets/8254dbdd-31ca-4bc1-b400-3db25938594d)
 
-https://youtu.be/E8htJIBL3X8?feature=shared
 
 ## Table of Contents
 
